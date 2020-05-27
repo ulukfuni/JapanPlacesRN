@@ -1,0 +1,52 @@
+{
+	"Breakfast": [
+		{
+			"name": "Ichiran",
+			"translation": "noodle soup",
+			"simplifiedFood": "ramen",
+			"location": "Shinjuku",
+			"rating": 5,
+			"address": "1111 shinjuku ave",
+			"hasEaten": true,
+			"cost": "$",
+			"paymentMethod": "vending machine",
+			"googleMapsLink": "https://google.com/maps/sidnfaiosdfnoa",
+			"picture": "https://google.com/images/osidnfsdinf",
+			"chain": true,
+			"pictureMenu": true,
+			"otherLocations": [
+				{
+					"location": "Harajuku",
+					"address": "1111 harajuku lane",
+					"googleMapsLink": "https://google.com/maps/sodnfosidnfos"
+				},
+				{
+					"location": "Shibuya",
+					"address": "1111 shibuya st",
+					"googleMapsLink": "https://google.com/maps/osidnfoisnd"
+				}
+			],
+			"notes": "salty goodness in a bowl, pay at front when you go in at vending machine, sit in booth and hand ticket to person in window, wait for goodness"
+		},
+		{
+			"name": "Gyudon",
+			"translation": "beef rice bowl",
+			"simplifiedFood": "beef rice bowl",
+			"location": "Shinjuku",
+			"rating": 4,
+			"address": "1112 shinjuku ave",
+			"hasEaten": true,
+			"cost": "$$",
+			"paymentMethod": "order menu",
+			"googleMapsLink": "https://google.com/maps/oisdnfosi",
+			"picture": "https://google.com/images/vkmnononwe",
+			"chain": false,
+			"pictureMenu": true,
+			"otherLocations": [],
+			"notes": "order the one with egg, delicious"
+		}
+	],
+	"Lunch": [],
+	"Dinner": [],
+	"Snacks": []
+}
